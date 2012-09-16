@@ -20,7 +20,7 @@ int main(char * args){
     // Setting up the local address
     local_addr.sin_family = AF_INET;
     local_addr.sin_addr.s_addr = INADDR_ANY;
-    local_addr.sin_port = htons(80800);
+    local_addr.sin_port = htons(29117);
     
     // Binding the local address to the socket
     int bind_error;
