@@ -2,7 +2,6 @@ TCP-Client-Server
 =================
 `Due Date: September 25th by 11:59 pm`
 
-<<<<<<< HEAD
 Client/Server socket program to send strings.
 
 Description
@@ -34,6 +33,3 @@ The following is a list of accepted commands:
 `EXIT`
 
 Entering any other command will return a '400 Command not valid.'
-=======
-Client/Server socket program to send strings.
->>>>>>> 4f6abbcc623a2a2221986fa2cc354e773c3e6aa1
